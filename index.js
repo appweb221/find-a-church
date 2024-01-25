@@ -1238,12 +1238,12 @@ function ChurchMaterials() {
 </nav><div style="background-color: white; padding: 30px; border-radius: 30px;"><div class="church-resources">
 <div>
   <h5>Increasing our knowledge of reading the word of God:</h5>
-  <p><a href="GodWordDerekPrince.pdf">Power of the word of God</a>.pdf</p>
-  <p><a href="HaveFaithInGod.PDF">Have Faith</a>.pdf</p>
-  <p><a href="FaithByExperience.PDF">Faith by Experience</a>.pdf</p>
-  <p><a href="BlessingOrCurseDerekPrince.pdf">Blessing or curse</a>.pdf</p>
-  <p><a href="PresenceOfGodDerekPrince.pdf">Presence of God</a>.pdf</p>
-  <p><a href="JesusDoNotChange.PDF">Jesus is the same</a>.pdf</p>
+  <p><a href="https://christiandiet.com.ng/wp-content/uploads/2020/07/Authority-And-Power-Of-Gods-Word-Derek-Prince-Christiandiet.com_.ng_.pdf">Power of the word of God</a>.pdf</p>
+  <p><a href="https://www.endtimemessage.org/component/easyfolderlistingpro/?view=download&format=raw&data=eNpNT9tuwyAM_Rf_QGBTenFfp2572x9Y7nASpFwwEdCLVO3fB6XR9mR8ODczao33hBuEIcxGXCIcEvYaobOOR0ldyiHaMjmFmMXQYobu6ugU2U_sOr3vd5QkuuBTlRY3OJe9mTUIQa1f41lS_gvaXCIQPbC67ZrUs5O6KoQ6Ng21Bg4WVRNFmRfO0z9W0Q52llX70iOUYkqrnj74XCJ0ZJtcJ_r09B5MJbxcIsgtP19fb8dnG7ktNkpao3Rx55z5e3LiC_v0QPcIS5SLlWu7ojQcQxjnkvzzC46VawY,">Have Faith</a>.pdf</p>
+  <p><a href="https://www.endtimemessage.org/component/easyfolderlistingpro/?view=download&format=raw&data=eNpNT1tuwjAQvMteIDEoFJa_quW7N7AWskksxQ_ZpqSquDubmAi-1jOemZ0lVAr_E-4QOj-2HOGYsFEIlbHUc6pS9tHIpORj5laHtqtuVp8juYFspQ7NXlwnjta7NFslDa6CS1ihEOr1q79yyq9FHwhaL9yM9sXqyPIMa4R57AprWjgarIsp8hgoD28q8XZm5NW7EZEUq7ebRp_I5EF__unvKUgOu8tcItlcIvCUn6-fr9OzD0_BRE7rMiX5lDNdBstO1OeFPSCEyL-Gb-UO6dh7348SfH9cMJLPbBs,">Faith by Experience</a>.pdf</p>
+  <p><a href="https://christiandiet.com.ng/wp-content/uploads/2020/07/Blessing-Or-Curse-You-Can-Choose-Derek-Prince-Christiandiet.com_.ng_.pdf">Blessing or curse</a>.pdf</p>
+  <p><a href="https://christiandiet.com.ng/wp-content/uploads/2020/07/Entering-The-Presence-Of-God-Derek-Prince-Christiandiet.com_.ng_.pdf">Presence of God</a>.pdf</p>
+  <p><a href="https://www.endtimemessage.org/component/easyfolderlistingpro/?view=download&format=raw&data=eNpNT8tuwyAQ_Bd-wLiV89icqkY59FQpufS0XCJlbSMZY7E4SVX137uEWO2FZYaZ2cFAXcM3wwpUGwZLUe0YmhpU5bzpiCtOITqZhkNMZHGybXX1eI5m7I2v6m2zQabow8jZKmlqFlxcwgoFSi9P3Uyc_hatQSHeuYw2xToaTxlqUHmsCuus2jnQxRRpmEzq_6nE27qBFm8jXCIppp_0Gt-IZ8bXPjpOeOoJj1wiwg9ZStGaLzyFfL6MFg8h0qU0ewZFt_S4ve8Pj7Z0m1xcJF6q1LLdpGQ-e0-jqM93dgtqkiBH15IlP-hC6AZp9vML8VxceA4,">Jesus is the same</a>.pdf</p>
 </div>
 <div class="container" style="margin: 0px; padding: 0px;">
   <div class="row">
